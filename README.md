@@ -1,6 +1,5 @@
 🧹 Excel Data Cleaning Project — Raw vs Cleaned Dataset
-�
-Load image
+
 Transformed complex, unformatted raw datasets into structured, accurate, and analysis-ready formats — ensuring data integrity and supporting reliable reporting/MIS processes.
 
 🎯 Objective
@@ -26,9 +25,6 @@ Normalized for uniform, professional reporting
 Unformatted currency fields
 Cleaned and standardized
 
-📷 Preview
-�
-Load image
 📁 File Structure
 📦 excel-data-cleaning
  ┣ 📊 raw_data.xlsx          ← Original unformatted dataset
@@ -55,5 +51,6 @@ Data cleaning is the foundation of any reliable MIS or reporting process. This p
 Ensure data integrity before reporting
 Prepare datasets for dashboards and management reports
 Maintain consistent data standards across departments
+
 📬 Connect
 GitHub: sirajul-islam5
